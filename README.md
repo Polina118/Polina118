@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Polina! Nice to meet you! :3
 - 👀 I’m interested in learning new and finding new solutions ^-^
-- 🌱 I’m currently learning Java Spring, Web-Design, MySQL
+- 🌱 I’m currently learning Java Spring, Web-Design, PostgreSQL
 
 <!---
 Polina118/Polina118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
